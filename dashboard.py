@@ -398,7 +398,7 @@ with tab5:
                 with open(map_path, "r", encoding="utf-8") as f:
                     components.html(f.read(), height=520, scrolling=False)
                 st.caption("Red = Critical hotspot  |  Yellow = High  |  Green = Low")
-                else:
+            else:
                 st.info("Run prototype.py and press H to generate the hotspot map.")
 # ── Auto-refresh — MUST be last ───────────────────────────────────────────────
 st.caption(f"🔄 Auto-refreshing every {DASHBOARD_REFRESH_SECS}s")
