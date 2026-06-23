@@ -1,0 +1,26 @@
+# AeroFlow Violation AI — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# ── Computer vision / ML ──────────────────────────────────────────────────────
+ultralytics>=8.0.0          # YOLOv8 detection + ByteTrack tracking
+opencv-python>=4.8.0        # video capture, frame processing, CLAHE
+
+# ── License plate OCR ─────────────────────────────────────────────────────────
+easyocr>=1.7.0              # Indian number plate text recognition (~200MB on first run)
+
+# ── Data / AQI ────────────────────────────────────────────────────────────────
+pandas>=2.0.0               # CSV I/O, DataFrame operations
+numpy>=1.24.0               # array operations
+requests>=2.31.0            # CPCB live API calls
+
+# ── Dashboard ─────────────────────────────────────────────────────────────────
+streamlit>=1.32.0           # web dashboard
+matplotlib>=3.7.0           # charts inside Streamlit
+seaborn>=0.12.0             # optional: enhanced heatmaps
+
+# ── Reporting ─────────────────────────────────────────────────────────────────
+fpdf2>=2.7.0                # PDF report generation (optional)
+
+# ── Standard library — no install needed ──────────────────────────────────────
+# csv, datetime, os, sys, threading, heapq, time, dataclasses,
+# enum, argparse, re, collections, typing
