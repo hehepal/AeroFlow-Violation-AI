@@ -1,0 +1,76 @@
+{
+  "overall_peak_hours": [
+    14,
+    17,
+    15
+  ],
+  "by_intersection": {
+    "Silk Board": {
+      "total_violations": 5,
+      "peak_hours": [
+        14,
+        17
+      ],
+      "top_violation": "Red-Light Violation"
+    },
+    "KR Puram": {
+      "total_violations": 1,
+      "peak_hours": [
+        15
+      ],
+      "top_violation": "Helmet Non-Compliance"
+    },
+    "Hebbal": {
+      "total_violations": 1,
+      "peak_hours": [
+        2
+      ],
+      "top_violation": "Red-Light Violation"
+    },
+    "Whitefield": {
+      "total_violations": 5,
+      "peak_hours": [
+        17,
+        14
+      ],
+      "top_violation": "Red-Light Violation"
+    },
+    "Marathahalli": {
+      "total_violations": 5,
+      "peak_hours": [
+        14,
+        15
+      ],
+      "top_violation": "Red-Light Violation"
+    },
+    "Electronic City": {
+      "total_violations": 3,
+      "peak_hours": [
+        14,
+        15
+      ],
+      "top_violation": "Triple Riding (3 persons)"
+    },
+    "Koramangala": {
+      "total_violations": 8,
+      "peak_hours": [
+        2,
+        14
+      ],
+      "top_violation": "Red-Light Violation"
+    },
+    "Indiranagar": {
+      "total_violations": 5,
+      "peak_hours": [
+        15,
+        17
+      ],
+      "top_violation": "Helmet Non-Compliance"
+    }
+  },
+  "deployment_recommendation": [
+    "Deploy at Koramangala during 02:00\u201303:00, 14:00\u201315:00 \u2014 8 violations recorded, mostly Red-Light Violation.",
+    "Deploy at Silk Board during 14:00\u201315:00, 17:00\u201318:00 \u2014 5 violations recorded, mostly Red-Light Violation.",
+    "Deploy at Whitefield during 17:00\u201318:00, 14:00\u201315:00 \u2014 5 violations recorded, mostly Red-Light Violation."
+  ]
+}

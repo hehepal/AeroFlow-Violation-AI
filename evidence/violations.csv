@@ -1,0 +1,34 @@
+ViolationID,Timestamp,FrameID,TrackID,VehicleClass,ViolationType,Confidence,BBoxX1,BBoxY1,BBoxX2,BBoxY2,PlateText,PlateConfidence,EvidenceFramePath
+VIO-20260621194437-0001,2026-06-21 19:44:37,14,2,motorcycle,Wrong-Side Driving,0.637,2099,1392,2509,2009,MMPLEZ 73728,0.155,evidence\frames\VIO_frame000014_194445.jpg
+VIO-20260621224521-0001,2026-06-21 22:45:21,124,-1,car,Red-Light Violation,0.742,336,308,418,377,,0.0,evidence\frames\VIO_frame000124_224524.jpg
+VIO-20260621224521-0002,2026-06-21 22:45:21,124,-1,car,Red-Light Violation,0.503,422,317,445,331,,0.0,evidence\frames\VIO_frame000124_224524.jpg
+VIO-20260622141833-0001,2026-06-22 14:18:33,107,-1,motorcycle,Triple Riding (3 persons),0.546,283,195,432,387,,0.0,evidence\frames\VIO_frame000107_141836.jpg
+VIO-20260622141837-0002,2026-06-22 14:18:37,108,-1,motorcycle,Triple Riding (3 persons),0.724,287,188,424,366,,0.0,evidence\frames\VIO_frame000108_141837.jpg
+VIO-20260622141837-0003,2026-06-22 14:18:37,108,-1,motorcycle,Red-Light Violation,0.724,287,188,424,366,,0.0,evidence\frames\VIO_frame000108_141837.jpg
+VIO-20260622141837-0004,2026-06-22 14:18:37,109,-1,motorcycle,Red-Light Violation,0.665,285,192,421,366,,0.0,evidence\frames\VIO_frame000109_141837.jpg
+VIO-20260622141838-0005,2026-06-22 14:18:38,110,-1,motorcycle,Triple Riding (3 persons),0.788,295,186,438,366,,0.0,evidence\frames\VIO_frame000110_141838.jpg
+VIO-20260622141838-0006,2026-06-22 14:18:38,110,-1,motorcycle,Red-Light Violation,0.788,295,186,438,366,,0.0,evidence\frames\VIO_frame000110_141838.jpg
+VIO-20260622141838-0007,2026-06-22 14:18:38,111,-1,motorcycle,Red-Light Violation,0.661,294,188,433,362,,0.0,evidence\frames\VIO_frame000111_141839.jpg
+VIO-20260622141839-0008,2026-06-22 14:18:39,112,-1,motorcycle,Triple Riding (3 persons),0.599,299,185,432,363,,0.0,evidence\frames\VIO_frame000112_141839.jpg
+VIO-20260622141839-0009,2026-06-22 14:18:39,112,-1,motorcycle,Red-Light Violation,0.599,299,185,432,363,,0.0,evidence\frames\VIO_frame000112_141839.jpg
+VIO-20260622141840-0010,2026-06-22 14:18:40,115,-1,motorcycle,Triple Riding (3 persons),0.475,292,194,412,353,,0.0,evidence\frames\VIO_frame000115_141840.jpg
+VIO-20260623021246-0001,2026-06-23 02:12:46,1,1,motorcycle,Red-Light Violation,0.723,202,184,303,390,,0.0,evidence\frames\VIO_frame000001_021249.jpg
+VIO-20260623021250-0002,2026-06-23 02:12:50,5,-1,motorcycle,Red-Light Violation,0.415,172,221,338,447,,0.0,evidence\frames\VIO_frame000005_021251.jpg
+VIO-20260623021252-0003,2026-06-23 02:12:52,9,-1,motorcycle,Red-Light Violation,0.412,146,173,341,414,,0.0,evidence\frames\VIO_frame000009_021252.jpg
+VIO-20260623150323-0001,2026-06-23 15:03:23,0,2,motorcycle,Red-Light Violation,0.699,2296,1325,2615,1810,7312 MI4DA,0.223,evidence\frames\VIO_frame000000_150327.jpg
+VIO-20260623150323-0002,2026-06-23 15:03:23,0,3,car,Red-Light Violation,0.632,610,980,1825,2003,,0.002,evidence\frames\VIO_frame000000_150327.jpg
+VIO-20260623150330-0003,2026-06-23 15:03:30,3,2,motorcycle,Helmet Non-Compliance,0.725,2245,1284,2592,1845,MIL04 7572,0.27,evidence\frames\VIO_frame000003_150330.jpg
+VIO-20260623150333-0004,2026-06-23 15:03:33,6,75,car,Red-Light Violation,0.826,186,949,1641,2148,,0.0,evidence\frames\VIO_frame000006_150334.jpg
+VIO-20260623150336-0005,2026-06-23 15:03:36,9,2,motorcycle,Helmet Non-Compliance,0.698,2168,1296,2557,1928,MMPLEZ 32,0.194,evidence\frames\VIO_frame000009_150337.jpg
+VIO-20260623150338-0006,2026-06-23 15:03:38,10,2,motorcycle,Helmet Non-Compliance,0.687,2157,1300,2553,1943,MEZ 372,0.357,evidence\frames\VIO_frame000010_150339.jpg
+VIO-20260623150340-0007,2026-06-23 15:03:40,11,2,motorcycle,Helmet Non-Compliance,0.682,2132,1308,2536,1963,MLOLEZ 377,0.283,evidence\frames\VIO_frame000011_150341.jpg
+VIO-20260623150343-0008,2026-06-23 15:03:43,12,2,motorcycle,Helmet Non-Compliance,0.678,2117,1321,2526,1977,MILLAEZ 7313,0.081,evidence\frames\VIO_frame000012_150347.jpg
+VIO-20260623172053-0001,2026-06-23 17:20:53,0,2,motorcycle,Red-Light Violation,0.699,2296,1325,2615,1810,7312 MI4DA,0.223,evidence\frames\VIO_frame000000_172057.jpg
+VIO-20260623172053-0002,2026-06-23 17:20:53,0,3,car,Red-Light Violation,0.632,610,980,1825,2003,,0.002,evidence\frames\VIO_frame000000_172057.jpg
+VIO-20260623172100-0003,2026-06-23 17:21:00,3,2,motorcycle,Helmet Non-Compliance,0.725,2245,1284,2592,1845,MIL04 7572,0.27,evidence\frames\VIO_frame000003_172100.jpg
+VIO-20260623172106-0004,2026-06-23 17:21:06,6,75,car,Red-Light Violation,0.826,186,949,1641,2148,,0.0,evidence\frames\VIO_frame000006_172109.jpg
+VIO-20260623172117-0005,2026-06-23 17:21:17,9,2,motorcycle,Helmet Non-Compliance,0.698,2168,1296,2557,1928,MMPLEZ 32,0.194,evidence\frames\VIO_frame000009_172120.jpg
+VIO-20260623172123-0006,2026-06-23 17:21:23,10,2,motorcycle,Helmet Non-Compliance,0.687,2157,1300,2553,1943,MEZ 372,0.357,evidence\frames\VIO_frame000010_172127.jpg
+VIO-20260623172129-0007,2026-06-23 17:21:29,11,2,motorcycle,Helmet Non-Compliance,0.682,2132,1308,2536,1963,MLOLEZ 377,0.283,evidence\frames\VIO_frame000011_172133.jpg
+VIO-20260623172135-0008,2026-06-23 17:21:35,12,2,motorcycle,Helmet Non-Compliance,0.678,2117,1321,2526,1977,MILLAEZ 7313,0.081,evidence\frames\VIO_frame000012_172139.jpg
+VIO-20260623172142-0009,2026-06-23 17:21:42,13,2,motorcycle,Helmet Non-Compliance,0.696,2101,1326,2525,1993,,0.0,evidence\frames\VIO_frame000013_172142.jpg
